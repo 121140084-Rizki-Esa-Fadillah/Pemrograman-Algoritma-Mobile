@@ -1,0 +1,9 @@
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/textView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="TemanMabar.com"
+    android:textColor="#2FA634"
+    android:textSize="28sp"
+    android:layout_gravity="center"/>
